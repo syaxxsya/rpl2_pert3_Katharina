@@ -1,0 +1,5 @@
+model/ModelMahasiswa.class
+view/MahasiswaView.class
+controller/MahasiswaController.class
+model/MahasiswaDAO.class
+com/mycompany/pert3a/Pert3a.class
